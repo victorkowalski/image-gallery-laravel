@@ -7,7 +7,7 @@ Colorlib Template Photon used as Frontend HTML Template
 
 ### Installation
 
--   `git clone https://github.com/victorkowalski/3-cats-laravel.git photogallery`
+-   `git clone https://github.com/victorkowalski/image-gallery-laravel.git photogallery`
 -   `cd photogallery`
 -   `cp .env.example .env`
 -   `composer install`
